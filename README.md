@@ -1,10 +1,10 @@
 
 
 ---
-<details open>
- <summary> <b>My poor visits</b> </summary>
- <img src="https://visitor-badge.glitch.me/badge?page_id=infzer.infzer" alt="visitor badge"/>
-</details>
+<p align="center">
+  <b>My poor visits</b> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=infzer.infzer" alt="visitor badge"/>
+</p>
 
 <details open>
  <summary><b>My Github Stats</b></summary>
