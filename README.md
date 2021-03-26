@@ -2,6 +2,10 @@
 
 ---
 <details open>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=infzer.infzer" alt="visitor badge"/>
+</details>
+
+<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
