@@ -1,4 +1,3 @@
-<a href="https://twitter.com/Reziztlmfao" target="_blank" rel="nofollow"><img align="right" alt="Rezizt Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://discord.gg/XgpXMWk2bG" target="_blank" rel="nofollow"><img align="right" alt="Rezizt's Insta" width="22px" src="https://www.jing.fm/clipimg/full/243-2438094_discord-svg-chat-transparent-background-discord-logo-transparent.png" /></a>
 
 
 ---
