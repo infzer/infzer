@@ -11,7 +11,7 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=infzer&show_icons=true&theme=synthwave&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=infzer">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=infzer&show_icons=true&theme=synthwave&line_height=27">
 </p>
 </details>
 
