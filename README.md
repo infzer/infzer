@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <b>My poor visits</b> 
+  <b>My poor visits</b><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=infzer.infzer" alt="visitor badge"/>
 </p>
 
