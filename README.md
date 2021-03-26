@@ -7,11 +7,11 @@
 </details>
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>My Github Stats</b></summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=6uv&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=6uv&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=infzer&show_icons=true&theme=synthwave&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=infzer&hide=css,java,html&theme=synthwave">
 </p>
 </details>
 
