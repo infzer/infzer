@@ -9,10 +9,10 @@
 <details open>
  <summary><b>My Github Stats</b></summary>
 <br>
-<p align = "center">
+<p align = "right">
   <img src = "https://github-readme-stats.vercel.app/api?username=infzer&show_icons=true&theme=synthwave&line_height=27">
 </p>
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=infzer&hide=css,java,html&theme=synthwave">
 </p>
 </details>
