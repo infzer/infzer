@@ -2,6 +2,7 @@
 
 ---
 <details open>
+ <summary> <b>My poor visits</b> </summary>
  <img src="https://visitor-badge.glitch.me/badge?page_id=infzer.infzer" alt="visitor badge"/>
 </details>
 
